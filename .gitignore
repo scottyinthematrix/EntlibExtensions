@@ -1,11 +1,14 @@
 #################
 ## custom
 #################
-Lib/*.dll
-Lib/*.xml
-Lib/*.pdb
-Lib/AutoMapper/*.xml
-Lib/AutoMapper/*.dll
+lib/*.dll
+lib/*.xml
+lib/*.pdb
+lib/Entlib/*.dll
+lib/Entlib/*.xml
+lib/Entlib/*.pdb
+lib/AutoMapper/*.xml
+lib/AutoMapper/*.dll
 
 #################
 ## Eclipse
